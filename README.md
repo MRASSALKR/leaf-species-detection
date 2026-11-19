@@ -13,6 +13,13 @@ Python, pandas, NumPy, matplotlib, scikit-learn
 
 ## Files
 - `01_leaf_species_detection.ipynb`: the full notebook
-- `iris.csv`: the dataset
+
+## Dataset
+The classic Iris dataset (150 samples, 4 features, 3 species). The dataset file is not included in this repository.
 
 ## How to run
+Install the libraries:
+
+    pip install pandas numpy matplotlib scikit-learn
+
+Then open the notebook in Jupyter and run all cells.
